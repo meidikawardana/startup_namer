@@ -113,7 +113,7 @@ class RandomWordsState extends State<RandomWords> {
             context: context,
             tiles: tiles,
           )
-          .toList();
+              .toList();
 
           return new Scaffold(
             appBar: new AppBar(

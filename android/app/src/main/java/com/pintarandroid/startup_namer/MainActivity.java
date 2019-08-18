@@ -1,7 +1,6 @@
-package com.pintarandroid.startupnamer;
+package com.pintarandroid.startup_namer;
 
 import android.os.Bundle;
-
 import io.flutter.app.FlutterActivity;
 import io.flutter.plugins.GeneratedPluginRegistrant;
 
